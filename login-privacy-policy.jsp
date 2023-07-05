@@ -18,7 +18,7 @@
         <link rel="stylesheet" href="assets/fonts/flaticon/flaticon.css">
         <!-- Magnific CSS -->
         <link rel="stylesheet" href="assets/css/magnific-popup.css">
-        <!-- Meanmenu CSS -->
+        <-- Meanmenu CSS -->
         <link rel="stylesheet" href="assets/css/meanmenu.css">
         <!-- Nice Select CSS -->
         <link rel="stylesheet" href="assets/css/nice-select.css">
